@@ -87,18 +87,15 @@ flatpak install flathub com.belmoussaoui.Authenticator -y
 flatpak install flathub org.freecad.FreeCAD -y
 flatpak install flathub com.vysp3r.ProtonPlus -y
 flatpak install flathub org.tordini.flavio.Minitube -y
-flatpak install flathub com.unicornsonlsd.finamp -y
 flatpak install flathub fr.handbrake.ghb -y
 flatpak install flathub com.anydesk.Anydesk -y
 flatpak install flathub org.jdownloader.JDownloader -y
 flatpak install flathub org.filezillaproject.Filezilla -y
 flatpak install flathub io.github.shiftey.Desktop -y
 flatpak install flathub com.ktechpit.ultimate-media-downloader -y
-flatpak install flathub com.fastmail.Fastmail -y
 flatpak install flathub com.todoist.Todoist -y
 flatpak install flathub org.gnome.Notes -y
 flatpak install flathub org.kde.krename -y
-flatpak install flathub org.kde.amarok -y
 flatpak install flathub com.bitwarden.desktop -y
 
 
