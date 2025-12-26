@@ -97,7 +97,6 @@ flatpak install flathub com.ktechpit.ultimate-media-downloader -y
 flatpak install flathub com.fastmail.Fastmail -y
 flatpak install flathub com.todoist.Todoist -y
 flatpak install flathub org.gnome.Notes -y
-flatpak install flathub com.albiononline.AlbionOnline -y
 flatpak install flathub org.kde.krename -y
 flatpak install flathub org.kde.amarok -y
 flatpak install flathub com.bitwarden.desktop -y
